@@ -21,6 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.gyst.org.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: GYST2017
 facebook_username:  gyst.uk
+instagram_username:  gyst_2017
 
 # Build settings
 markdown: kramdown
