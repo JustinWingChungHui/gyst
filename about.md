@@ -25,4 +25,4 @@ We know that we're fighting against the polls and against the odds - but we have
 > Poverty isn’t inevitable.  
 > Things can and they will change.  
 
-Rt Hon Jeremy Corbyn
+Jeremy Corbyn
