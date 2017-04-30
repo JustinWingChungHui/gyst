@@ -13,8 +13,7 @@ script:
   - bundle exec jekyll build
 
 before_deploy:
-  - sudo apt-get install python3
-  - pip install awscli
+  - pip install --upgrade --user awscli
   - aws configure --aws_access_key_id $AWS_ACCESS_KEY_ID --aws_secret_access_key $AWS_SECRET_ACCESS_KEY
   - npm install -g gulp
   - npm install
