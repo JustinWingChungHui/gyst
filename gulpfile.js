@@ -39,7 +39,7 @@ gulp.task('publish', [ 'css', 'js' ], function() {
 
   var cfSettings = {
     distribution: 'E2R4UK71W6DBUH', // Cloudfront distribution ID 
-    wait: true,                     // Whether to wait until invalidation is completed (default: false) 
+    wait: false,                     // Whether to wait until invalidation is completed (default: false) 
     indexRootPath: true             // Invalidate index.html root paths (`foo/index.html` and `foo/`) (default: false) 
   }
 
