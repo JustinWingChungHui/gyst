@@ -7,18 +7,21 @@ install:
   - bundle install
 
 before_script:
-  - npm install -g gulp
+  
 
 script: 
   - bundle exec jekyll build
+
+before_deploy:
+  - sudo apt-get install python3
+  - pip install awscli
+  - aws configure --aws_access_key_id $AWS_ACCESS_KEY_ID --aws_secret_access_key $AWS_SECRET_ACCESS_KEY
+  - npm install -g gulp
   - npm install
+
+deploy:
   - gulp
 
 env:
   global:
     secure: EXAMPLE
-
-# Generate your secure token with the travis gem:
-# get Github token from your Travis CI profile page
-# gem install travis
-# travis encrypt 'GIT_NAME="YOUR_USERNAME" GIT_EMAIL="YOUR_EMAIL" GH_TOKEN=YOUR_TOKEN'
