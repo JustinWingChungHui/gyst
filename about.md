@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+order: 5
 ---
 
 
@@ -26,3 +27,5 @@ We know that we're fighting against the polls and against the odds - but we have
 > Things can and they will change.  
 
 Jeremy Corbyn
+
+[What Can I Do?](/what_can_i_do/)

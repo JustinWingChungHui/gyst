@@ -19,7 +19,6 @@ install:
 script: 
   # Build Jekyll site
   - bundle exec jekyll build
-
   - gulp
 
 env:
