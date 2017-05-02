@@ -2,6 +2,7 @@
 layout: page
 title: Why should I vote Labour?
 permalink: /why_vote_labour/
+order: 3
 ---
 
 Here’s why we think you should vote Labour
