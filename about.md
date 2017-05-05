@@ -14,7 +14,7 @@ Children are going hungry and families are being forced onto the street.
 
 Our future is being auctioned off. And it’s up to us to save it. 
 
-GYS*T came together as a group of people united by one simple belief; that we have a choice. We can choose to fight for a better, fairer future. We believe that the Labour party, led by Jeremy Corbyn, offers a compassionate and viable alternative to the cruelty of the current Conservative government.
+GYS*T came together as a group of people united by one simple belief. That we have a choice. That we can choose to fight for a better, fairer future. We believe that the Labour party, led by Jeremy Corbyn, offers a compassionate, viable alternative to the cruelty of the current Conservative government.
 
 **Labour is a party that represents the many rather than the few. And a party that works for the people.**
 
