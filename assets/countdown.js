@@ -1,4 +1,4 @@
-CountDownTimer('05/22/2017 11:59 PM', 'countdown');
+CountDownTimer('06/08/2017 07:00 PM', 'countdown');
 
 function CountDownTimer(date, id)
 {
@@ -16,7 +16,7 @@ function CountDownTimer(date, id)
         if (distance < 0) {
 
             clearInterval(timer);
-            document.getElementById(id).innerHTML = 'EXPIRED!';
+            document.getElementById(id).innerHTML = 'VOTE NOW!';
 
             return;
         }
